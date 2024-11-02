@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.salavuddinshaik.portfolio_backend.PortfolioBackendApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.934 s -- in com.salavuddinshaik.portfolio_backend.PortfolioBackendApplicationTests
